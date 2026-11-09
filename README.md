@@ -43,9 +43,21 @@ The system also includes an administrator module to manage hospital-related acti
 | Visual Studio | Development Environment |
 
 ## 📂 Project Structure
-MedCare Web/
+MedCare-Web/
 │
 │   └── style.css
+│
+├── Screenshots/
+│   ├── Home.png
+│   ├── Register.png
+│   ├── Login.png
+│   ├── Services.png
+│   ├── Appointment.png
+│   ├── Feedback.png
+│   ├── Contact.png
+│   ├── PatientDashboard.png
+│   ├── AdminLogin.png
+│   └── AdminDashboard.png
 │
 ├── Home.aspx
 ├── Register.aspx
@@ -54,15 +66,11 @@ MedCare Web/
 ├── Appointment.aspx
 ├── Feedback.aspx
 ├── Contact.aspx
-│
 ├── PatientDashboard.aspx
-│
 ├── AdminLogin.aspx
 ├── AdminDashboard.aspx
-│
 ├── Site.Master
 ├── DBConnection.cs
-│
 └── Web.config
 
 📄 Module Description
